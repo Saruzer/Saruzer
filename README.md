@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔍 I am currently seeking a job as a C++ trainee/intern or junior developer.<br>🔥 Enthusiastic and optimistic, I am always eager to learn and grow.<br>⚡️ My goal is to gain experience working on commercial projects within a team as soon as possible.<br>📖 I enjoy reading books to broaden my knowledge.<br>🧠 Constantly striving for personal development.<br>🏃 I practice calisthenics and prioritize fitness.
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Saruzer0000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrlexa130@gmail.com) 
 
